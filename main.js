@@ -5,7 +5,7 @@ function preload(){
 }
 
 function setup(){
-    let c = createCanvas(400,400);
+    let c = createCanvas(800,800);
     c.parent('canvas-wrapper');
 }
 
